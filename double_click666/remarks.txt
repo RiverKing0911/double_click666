@@ -1,0 +1,21 @@
+m8.d7: 空闲时间开始敲一些代码 案例来源于《JAVA经典编程300例》
+
+m8.d7.HelloWorld:第一个java程序
+m8.d7.PrintErrorAndDebug:输出错误信息与调试信息
+m8.d7.InputCode:从控制台接受输入字符
+m8.d7.RedirectOutputStream:重定向输出流实现程序日志
+m8.d7.TypeConversion:自动类型转换与强制类型转换
+
+m8.d8.Example:位运算，做加密
+m8.d9.ParityCheck:三目运算判断奇偶
+m8.d9.Example:位运算代替乘法，速度更快
+m8.d9.Example2:位运算升级版
+
+m8.d10.CheckLogin,Demo:if...else
+m8.d10.Example,ProductPrice:switch...case
+m8.d10.ErgodicArray:while循环
+m8.d10.YangHuiTriangle:双重for循环打印杨辉三角
+m8.d10.MultiplicationTable:九九乘法表
+
+m8.d11.
+
